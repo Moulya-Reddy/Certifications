@@ -1,6 +1,11 @@
-# Certifications
+**Certifications**
 
-This repository contains links to all the:
+This repository showcases all the certifications and virtual internships I have completed. It includes:
 
-1. Certificates I received.
-2. Virtual Internships I completed.
+Course Completion Certificates
+
+Virtual Internships
+
+Each entry is categorized and linked for easy access.
+
+
